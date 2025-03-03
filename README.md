@@ -15,10 +15,10 @@ Sebagai seorang Big Data Analytics Intern di Kimia Farma, tugas mencakup serangk
 5. Sulawesi Selatan, Sulawesi Utara, Kalimantan Selatan, Bali, dan Jawa Tengah menjadi daerah dengan rating cabang tertinggi namun mendapatkan rating transaksi terendah.
 
 **Rekomendasi :** 
-1. Memperluas jangkauan pasar ke seluruh daerah yang belum ada.
-2. Memperluas inovasi di berbagai produk yang potensial.
+1. Memperluas jangkauan pasar ke seluruh daerah yang belum terjangkau. 
+2. Memperluas dan menambah inovasi dan variasi produk yang potensial. 
 3. Menjalin kemitraan dengan bisnis lokal yang sudah maju untuk meningkatkan pendapatan.
-4. Mengevaluasi dan memperbaiki kantor cabang yang memiliki rating cabang tertinggi, namun memiliki rating transaksi penjualan yang rendah.
+4. Mengevaluasi dan memperbaiki kantor cabang yang memiliki rating cabang tertinggi, namun memiliki rating transaksi penjualan yang rendah, seperti : meningkatkan pelayanan, memperbaiki dan meningkatkan efisiensi operasional.  
 
 Link PPT hasil evaluasi Kinerja Bisnis Kimia Farma dari Tahun 2020-2023: 
 Link dashboard interaktif Kinerja Bisnis Kimia Farma dari Tahun 2020-2023 di Google Looker Studio: https://lookerstudio.google.com/reporting/541e604d-1b1c-44ef-8e90-c4df0de7069b 
