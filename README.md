@@ -20,5 +20,5 @@ Sebagai seorang Big Data Analytics Intern di Kimia Farma, tugas mencakup serangk
 3. Menjalin kemitraan dengan bisnis lokal yang sudah maju untuk meningkatkan pendapatan.
 4. Mengevaluasi dan memperbaiki kantor cabang yang memiliki rating cabang tertinggi, namun memiliki rating transaksi penjualan yang rendah, seperti : meningkatkan pelayanan, memperbaiki dan meningkatkan efisiensi operasional.  
 
-Link PPT hasil evaluasi Kinerja Bisnis Kimia Farma dari Tahun 2020-2023: 
+Link PPT hasil evaluasi Kinerja Bisnis Kimia Farma dari Tahun 2020-2023: https://drive.google.com/file/d/1mgaqjeuYu9zpcAOW3R62255-n8jOSdTl/view?usp=sharing
 Link dashboard interaktif Kinerja Bisnis Kimia Farma dari Tahun 2020-2023 di Google Looker Studio: https://lookerstudio.google.com/reporting/541e604d-1b1c-44ef-8e90-c4df0de7069b 
